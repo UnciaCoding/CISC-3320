@@ -1,0 +1,18 @@
+PID   BURST ARRIVAL COMPLETION TURNAROUND WAITING RESPONSE
+12345  7     0       15         15         8       0
+12347  4     2       17         15         11      6
+12349  4     16      31         15         11      5
+12346  10    1       35         34         24      3
+12351  4     22      41         19         15      9
+12348  18    4       65         61         43      8
+12352  6     46      67         21         15      5
+12355  1     66      74         8          7       7
+12350  17    20      83         63         46      7
+12356  3     70      86         16         13      8
+12353  8     55      88         33         25      6
+12354  19    60      101        41         22      9
+Average Turnaround Time: 28
+Average Waiting Time: 20
+Average Response Time: 6
+
+Process finished with exit code 0
